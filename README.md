@@ -1,2 +1,2 @@
 # middle-wp
-Custom Wordpress Theme for Content Marketing
+Custom Wordpress Theme for Content Marketing 
